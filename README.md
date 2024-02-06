@@ -1,5 +1,5 @@
-# next-carhub-clone
 ## Carhub Clone Web Application
+Build this project step by step with our tutorial on JavaScript Mastery YouTube
 ## Technologies Used
 React, Tailwind, Next, Typescript
 ## Description
